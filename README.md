@@ -2,8 +2,8 @@
 
 Agenda - Dublin 11/14 GBS Training<br>
 <br>
-9am - DSX/ ML Overview - Demo <br>
-10am - Intro to Notebooks<br>
+9am - Overview Data Science and Machine Learning - DSX Position w/ Demo <br>
+10am - Intro to Notebooks - All Labs<br>
 11am - Spark Overview <br>
 11:30am - Spark POT Lab 1<br>
 Noon - Lunch<br>
