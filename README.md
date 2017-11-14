@@ -1,6 +1,6 @@
 # GBS-DSX
 
-Agenda - Dublin 11/14 GBS Training<br>
+## Agenda - Dublin 11/14 GBS Training<br>
 <br>
 9am - Overview Data Science and Machine Learning - DSX Position w/ Demo <br>
 10am - Intro to Notebooks - All Labs<br>
